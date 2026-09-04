@@ -1,0 +1,4 @@
+Ravi,50000
+Priya,70000
+Arun,45000
+Sneha,80000
